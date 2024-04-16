@@ -1,21 +1,11 @@
-<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
-<!--- 00a56be08b96043df9e37d6aff7b6990 --->
-<!--- Created:20170112-18:22: ---> 
-<!--- Author:Mlab: ---> 
-<!--- AuthorEmail:mlab@mlab.cz: ---> 
-<!--- Tags:imported: ---> 
-<!--- Ust:[End]: ---> 
-<!--- Name:RPi: --->
-#RPi 
-<!--- LongName --->
-Raspberry Pi MLAB assimilation
-<!--- ELongName ---> 
+# Rasberry Pi 
 
-<!--- Lead --->
-Documents and design files describing a mothod how to use classic Raspberries Pi in MLAB prototyping system.
+Raspberry Pi MLAB assimilation breakout frame
+
+Documents and design files describing a method of how to use classic [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) in the MLAB prototyping system.
 <!--- ELead ---> 
 
-![LeadImg](Raspberry_ALBASE_Top_Small.JPG) 
+![LeadImg](doc/img/Raspberry_ALBASE_top_small.jpg) 
 
 
 ​
